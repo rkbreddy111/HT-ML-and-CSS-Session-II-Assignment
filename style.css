@@ -1,0 +1,33 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: red;
+    background-color: yellow;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+img {
+    align-items: right;
+    height: 90px;
+    width: 90px;
+}
+
+
+/* To call the class, you will start with a "." */
+
+.abc {
+    font-size: 18px;
+    color: aqua;
+    background-color: black;
+}
+
+h1 {
+    display: inline-block
+}
